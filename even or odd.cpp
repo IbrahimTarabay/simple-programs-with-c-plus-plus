@@ -23,3 +23,4 @@ int main() {
 
 }
 
+//enter a number and i will tell you even or odd.
