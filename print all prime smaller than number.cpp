@@ -43,3 +43,5 @@ int printprimes(int num) {
 
   printprimes(num - 1);
 }
+
+//print all prime numbers smaller than number you enter.
