@@ -27,3 +27,5 @@ int main(){
      cout<<"modified string is  : "<<s<<endl;
      return 0;
 }
+
+//make small letters capital and vice-versa.
