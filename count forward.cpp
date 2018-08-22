@@ -17,3 +17,5 @@ int main() {
 
   return 0;
 }
+
+//when the user enters the number count from 1 to that number.
