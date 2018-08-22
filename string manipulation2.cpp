@@ -27,3 +27,5 @@ int main(){
      cout<<"modified string is  : "<<s<<endl;
      return 0;
 }
+
+//if the letter capital leave it as it's else make it capital.
