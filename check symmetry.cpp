@@ -43,3 +43,5 @@ else{
 
 return 0;
 }
+
+//if the 2D array is symmetic print symmetric else print not symmetric.
