@@ -25,3 +25,5 @@ int main()
 
   return 0;
 }
+
+//enter a number and i will tell you prime or not.
