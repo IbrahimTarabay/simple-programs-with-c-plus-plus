@@ -34,3 +34,5 @@ int main(){
    return 0;
 
 }
+
+//enter any numbers and i will tell you who is the max and min.
