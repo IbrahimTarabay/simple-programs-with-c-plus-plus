@@ -30,3 +30,5 @@ int main(){
    return 0;
 
 }
+
+//enter ten numbers and i will tell you who is the max and min.
