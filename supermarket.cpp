@@ -34,3 +34,5 @@ while(cout<<x[j] && x[++j]){
 cout<<endl;
 cout<< sum + x[j-1] <<endl;
 }
+
+//arrange numbers you enter from small to big then add them together.
