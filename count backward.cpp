@@ -47,3 +47,5 @@ int main() {
 
   return 0;
 }*/
+
+//when user enter a number count that number till 1 (with for loop and recursion).
