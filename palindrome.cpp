@@ -29,3 +29,4 @@ using namespace std;
 
     }
   }
+//if the word is palindrome return palindrome else return not palindrome.
